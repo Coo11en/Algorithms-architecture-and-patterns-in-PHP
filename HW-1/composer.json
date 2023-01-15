@@ -1,11 +1,9 @@
 {
-    "name": "coollen/hw",
-    "type": "project",
+    "name": "coollen/app",
     "autoload": {
         "psr-4": {
             "App\\": "src/App"
         }
     },
-    "minimum-stability": "stable",
     "require": {}
 }
